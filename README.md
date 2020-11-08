@@ -1,5 +1,5 @@
 1. Andrews, S., 2010 FastQC: A quality control tool for high throughput sequence data. Babraham Bioinformatics
-2. Antipov, D., A. Korobeynikov, J. S. McLean, and P. A. Pevzner, 2016 hybridSPAdes: an algorithm for hybrid assembly of short and long reads. Bioinformatics 32: 1009–1015.
+2. Antipov, D., A. Korobeynikov, J. S. McLean, and P. A. Pevzner, 2016 hybridSPAdes: an algorithm for hybrid assembly        of short and long reads. Bioinformatics 32: 1009–1015.
 3. Bolger, A. M., M. Lohse, and B. Usadel, 2014 Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics 30: 2114–2120.
 4. Bosi, E., B. Donati, M. Galardini, S. Brunetti, M.-F. Sagot et al., 2015 MeDuSa: a multi-draft based scaffolder. Bioinformatics 31: 2443–2451.
 5. Cantarel, B. L., P. M. Coutinho, C. Rancurel, T. Bernard, V. Lombard et al., 2009 The Carbohydrate-Active EnZymes database (CAZy): an expert resource for  Glycogenomics. Nucleic Acids Res. 37: D233-8.
